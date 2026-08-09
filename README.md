@@ -28,7 +28,7 @@ OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断し�
 
 - 2026/07 | [OVSとLinuxネットワークで実現するHVの透過的プロキシとセキュアなVPCネットワーク](https://speakerdeck.com/tomokon/ovstolinuxnetutowakudeshi-xian-suruhvnotou-guo-de-purokisitosekiyuanavpcnetutowaku)
 - 2026/07 | [kagentとMCPで実現するKubernetes-nativeなAIアラート自動応答システム](https://speakerdeck.com/tomokon/kagenttomcpdeshi-xian-surukubernetes-nativenaaiaratozi-dong-ying-da-sisutemu)
-- 2025/09 | [Goで作る！ストレージ筐体間での安全なCinder Volume移行システムの開発と運用](https://speakerdeck.com/tomokon/godezuo-ru-sutorezikuang-ti-jian-denoan-quan-nacinder-volumeyi-xing-sisutemunokai-fa-toyun-yong)
+- 2025/09 | [Cinder Backupを活用したユーザー負担の少ないクロスリージョンボリューム移行システム:]([https://speakerdeck.com/tomokon/godezuo-ru-sutorezikuang-ti-jian-denoan-quan-nacinder-volumeyi-xing-sisutemunokai-fa-toyun-yong](https://speakerdeck.com/tomokon/cinder-backupwohuo-yong-sitayuzafu-dan-noshao-naikurosuriziyonboriyumuyi-xing-sisutemu))
 - 2025/11 | [Tinkerbellから学ぶ、PodでDHCPをリッスンする手法](https://speakerdeck.com/tomokon/tinkerbellkaraxue-bu-podde-dhcpworitusunsurushou-fa)
 - 2025/09 | [Goで作る！ストレージ筐体間での安全なCinder Volume移行システムの開発と運用](https://speakerdeck.com/tomokon/godezuo-ru-sutorezikuang-ti-jian-denoan-quan-nacinder-volumeyi-xing-sisutemunokai-fa-toyun-yong)
 
