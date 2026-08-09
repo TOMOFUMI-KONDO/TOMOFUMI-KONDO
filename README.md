@@ -26,10 +26,10 @@ OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断し�
 
 ## Blog
 
-- [Cycloud 新基盤の全貌 第四回: IaaS 編](https://developers.cyberagent.co.jp/blog/archives/64795/)
-- [cinder-volumeのトラブルシューティングをしたら意外な原因だった](https://blog.tomokon.net/posts/cinder-volume-troubleshooting/)
-- [OVN-Kubernetesのノード再起動後にネットワーク断になる](https://blog.tomokon.net/posts/ovn-kubernetes-delete-transient-ports/)
-- [kubeadm × ovn-kubernetesのクラスタでService CIDR問題にハマった](https://blog.tomokon.net/posts/ovn-kubernetes-subnet-issue/)
+- 2026/07/24 | [Cycloud 新基盤の全貌 第四回: IaaS 編](https://developers.cyberagent.co.jp/blog/archives/64795/)
+- 2026/04/04 | [OVN-Kubernetesのノード再起動後にネットワーク断になる](https://blog.tomokon.net/posts/ovn-kubernetes-delete-transient-ports/)
+- 2025/09/01 | [kubeadm × ovn-kubernetesのクラスタでService CIDR問題にハマった](https://blog.tomokon.net/posts/ovn-kubernetes-subnet-issue/)
+- 2025/08/11 | [cinder-volumeのトラブルシューティングをしたら意外な原因だった](https://blog.tomokon.net/posts/cinder-volume-troubleshooting/)
 - [その他の記事](https://blog.tomokon.net/posts/)
 
 ## Links
@@ -38,5 +38,5 @@ OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断し�
 [![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-tomokon-009287?style=flat-square)](https://speakerdeck.com/tomokon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomofumi--kondo-0A66C2?style=flat-square)](https://www.linkedin.com/in/tomofumi-kondo-b813b8387)
 
-<img src="https://github-stats-extended.vercel.app/api?username=TOMOFUMI-KONDO&show_icons=true&hide=issues&theme=github_dark_dimmed" width="48%" />
+<!-- <img src="https://github-stats-extended.vercel.app/api?username=TOMOFUMI-KONDO&show_icons=true&hide=issues&theme=github_dark_dimmed" width="48%" /> -->
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TOMOFUMI-KONDO&layout=compact&langs_count=6&theme=github_dark_dimmed" width="40%" />
