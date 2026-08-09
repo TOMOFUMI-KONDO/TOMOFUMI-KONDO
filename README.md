@@ -39,4 +39,4 @@ OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断し�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomofumi--kondo-0A66C2?style=flat-square)](https://www.linkedin.com/in/tomofumi-kondo-b813b8387)
 
 <!-- <img src="https://github-stats-extended.vercel.app/api?username=TOMOFUMI-KONDO&show_icons=true&hide=issues&theme=github_dark_dimmed" width="48%" /> -->
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TOMOFUMI-KONDO&layout=compact&langs_count=6&theme=github_dark_dimmed" width="40%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TOMOFUMI-KONDO&layout=compact&langs_count=6&theme=github_dark_dimmed" <!-- width="40%" /> -->
