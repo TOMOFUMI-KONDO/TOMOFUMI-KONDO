@@ -12,7 +12,7 @@
 
 **Infrastructure / Platform Software Engineer** - Private Cloud、IaaS、OpenStack、Kubernetes、Go、Python
 
-OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断したIaaS基盤の開発・運用や、インフラ基盤の管理に用いるソフトウェアの開発を専門とする。低レイヤーからコントロールプレーン、管理基盤までを一つのシステムとして捉えてインフラ基盤を全体を通して最適化することを得意とする。
+OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断したIaaS基盤の開発・運用や、インフラ基盤の管理に用いるソフトウェアの開発を専門とする。低レイヤーからコントロールプレーン、管理基盤までを一つのシステムとして捉えてインフラ基盤を全体を通して最適化することが得意。
 
 ## 技術スキル
 
