@@ -22,7 +22,7 @@ OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断し�
 - **Network:** OpenStack Neutron、OVS、DPDK、TCP/IP、SDN
 - **Storage:** OpenStack Cinder、NFS、iSCSI、multipath、Enterprise Storage、Data Migration
 - **Container Orchestration:** Kubernetes、Kubeadm、Custom Controller
-    - **Programming:** Go、Pythona
+- **Programming:** Go、Pythona
 
 ### 実務運用
 
