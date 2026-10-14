@@ -114,6 +114,7 @@ OpenStack / Kubernetesをベースに、Compute / Storage / Networkを横断し�
 
 ## 資格
 
+- **2025/03 |** LPIC-1
 - **2022/06 |** IPA ネットワークスペシャリスト
 - **2022/02 |** TOEIC 880
 - **2021/06 |** AWS Certified Solutions Architect - Associate（expired）
